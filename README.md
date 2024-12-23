@@ -14,8 +14,8 @@ Workea permite a los usuarios crear perfiles, buscar proyectos y postularse a el
 - Funciones interactivas con un diseño limpio y accesible.
 
 
-![Workea Demo](![Logo aplicación-workea-diseñoux-ui](https://github.com/user-attachments/assets/00dc534e-2036-4ad9-b5ff-83b737fedb58)
-)
+(![Logo aplicación-workea-diseñoux-ui](https://github.com/user-attachments/assets/00dc534e-2036-4ad9-b5ff-83b737fedb58)
+
 
 
 
