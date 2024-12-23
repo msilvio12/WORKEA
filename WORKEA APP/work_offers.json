@@ -1,0 +1,16 @@
+{
+    "offers": [
+        {
+            "title": "Desarrollador Fullstack",
+            "description": "Pago: $2000 - Tiempo: 3 meses - Experiencia: 2 a\u00f1os"
+        },
+        {
+            "title": "Dise\u00f1ador UX/UI",
+            "description": "Pago: $1500 - Tiempo: 1 mes - Experiencia: 1 a\u00f1o"
+        },
+        {
+            "title": "Community Manager",
+            "description": "Pago: $1000 - Tiempo: 2 meses - Experiencia: 1 a\u00f1o"
+        }
+    ]
+}
